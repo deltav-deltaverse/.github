@@ -20,6 +20,8 @@ DeltaV THRUST building inside the Metapolis Zilliqa Blockchain
   
   deltaverse.dao
   deltaverse.zil
+  
+  https://twitter.com/deltavexchange/status/1532871112844926976?s=20&t=_dJ7XHXktxymsmxiVy7EJQ
 
 
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
