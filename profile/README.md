@@ -2,9 +2,10 @@
 
 DELTAVERSE (c) DeltaV THRUST 2022 MIT license
 
-DeltaV THRUST building inside the Metapolis Zilliqa Blockchain
-  deltaverse.zil
-  deltaverse.dao
+DeltaV THRUST DeltaVerse deltabridge inside the Metapolis on the Zilliqa Blockchain
+
+  deltaverse.zil (c) DeltaV THRUST BUSL v1.1
+  deltaverse.dao (c) DeltaV THRUST
   
   Harnessing the power of the Unity 3d engine will provide immersive user interaction to the cryptocurrency experience. DeltaV THRUST is a rocketship cryptocurrency exploring the cryptoverse expanding into ALLCHAINZ. Zilliqa Blockchain has been discovered being very useful for business transactions with the Scilla language being the perfect intermediary solving several of the security and blockspeed considerations problematic within the Solidity programming language. Metaverse as a service technology will provide the blockchain stack necessary to achieve next level user interaction. Decentralised bridging across metaverses is a core feature of DeltaVerse (c) DeltaV THRUST 
   
