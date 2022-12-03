@@ -19,8 +19,10 @@ DELTAVERSE (c) <a href="https://deltav.exchange">DeltaV THRUST</a> 2022 MIT lice
   deltaverse.zil
   
   https://twitter.com/deltavexchange/
-  https://deltavthrust.medium.com
   
+  easyfind.wallet
+
+
   [Zilliqa Engine](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/85209442842702955028286586320243537389855118869793358185487603685268501137055)
 
 
