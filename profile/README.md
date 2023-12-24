@@ -16,6 +16,8 @@ DELTAVERSE (c) <a href="https://github.com/deltav-deltaverse">DeltaV THRUST</a> 
   
   deltaverse.dao
   deltaverse.zil
+
+  <a hred=^https://deltav.exchange">deltav.exchange</a>
   
   https://twitter.com/deltavexchange/
   
