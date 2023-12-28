@@ -2,7 +2,7 @@
 
 DELTAVERSE (c) <a href="https://github.com/deltav-deltaverse">DeltaV THRUST</a> 2022 MIT license
 
-<a href="https://github.com/deltabridge">deltabridgeT</a> DeltaV THRUST DeltaVerse Metapolis Development on the Zilliqa Blockchain
+<a href="https://github.com/deltabridge">deltabridge</a> DeltaV THRUST DeltaVerse Metapolis Development on the Zilliqa Blockchain
 
   deltaverse.zil (c) <a href="https://twitter.com/deltavexchange">DeltaV THRUST</a> BUSL v1.1
   deltaverse.dao (c) <a href="https://twitter.com/deltavexchange">DeltaV THRUST</a>
