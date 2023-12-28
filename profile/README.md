@@ -46,6 +46,10 @@ The Delta Verse encourages participants to embrace change, explore the unknown, 
 As the Delta Verse continues to evolve and redefine the boundaries of human creativity and AI's capabilities, it serves as a testament to the boundless potential of collaborative imagination. It beckons participants to embark on a journey where reality and fiction merge, where change is the only constant, and where the boundaries of what's possible are pushed further with each collective step into this fluid, dynamic universe.
 
 In DeltaVerse, artificial intelligence acts as a seamless bridge, propelling users from mere participants to creators of their own imaginative realms. Here, natural language processing transforms into a tool of empowerment, enabling users to generate immersive interplay across the cryptosphere. This innovative approach allows for intuitive interaction with complex blockchain technologies, making the development and exploration within this space accessible and engaging. DeltaVerse stands at the forefront of this evolution, where the simplicity of language meets the complexity of blockchain, opening up a world of possibilities for both seasoned developers and imaginative explorers alike.
+
+BEAM and layer0 have proven essential to the next step forward into the DeltaVerse
+
+Thank you all for you patience, the journey has just begun .... join us at <a href="https://deltavthrust.com">DeltaV THRUST</a> to 10x your lifestyle with THRUST.
   
 
 
