@@ -2,10 +2,10 @@
 
 DELTAVERSE (c) <a href="https://github.com/deltav-deltaverse">DeltaV THRUST</a> 2022 MIT license
 
-<a href="https://github.com/deltabridge">deltabridge</a> DeltaV THRUST DeltaVerse Metapolis Development on the Zilliqa Blockchain
+<a href="https://github.com/deltabridge">deltabridge</a> DeltaV THRUST DeltaVerse Metapolis Development as a chain and cross-chain
 
   deltaverse.zil (c) <a href="https://twitter.com/deltavexchange">DeltaV THRUST</a> BUSL v1.1
-  deltaverse.dao (c) <a href="https://twitter.com/deltavexchange">DeltaV THRUST</a>
+  deltaverse.dao (c) <a href="https://deltavthrust.com">DeltaV THRUST</a>
   
   Harnessing the power of the Unity 3d engine will provide immersive user interaction to the cryptocurrency experience. <a href="https://github.com/deltav-deltaverse/web3.unity">DeltaV THRUST</a> is a rocketship cryptocurrency exploring the cryptoverse as deltaverse expanding into ALLCHAINZ. Zilliqa Blockchain has been discovered being very useful for business transactions with the Scilla language being the perfect intermediary for business applications. Solving several of the security and blockspeed considerations problematic within the EVM Solidity programming language Scilla provides robust security considerations. Flow brings Cadence to the table creating several more upgrades to asset exchange holder vaults. BEAM introduces near instant finality with layer0. Exciting progress with VOI on Algorand.
   
